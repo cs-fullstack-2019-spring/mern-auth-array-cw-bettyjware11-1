@@ -9,3 +9,5 @@ Create the following pages:
 - Log Out: Log out the user.
 
 Make sure to use cookies, and salt/hash your passwords.
+<hr>
+1 point. Add a user looks like it works the first time, but I can't confirm that. When I try again it doesn't work. Also, I can't sign in.
